@@ -8,7 +8,7 @@ I bring a wealth of expertise in several key domains, including Machine Learning
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shreyas2003w@gmail.com](mailto:shreyas2003w@gmail.com)
-* 🧠  I'm learning Android development and datascience
+* 🧠  I'm currently learning about Large Language Models and AWS Cloud Technologies
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
 ### Skills
