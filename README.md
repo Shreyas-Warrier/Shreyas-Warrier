@@ -1,7 +1,7 @@
 Hi 👋 I'm Shreyas Warrier
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-Versatile Technologist | 🤖Machine Learning, 🖥️ Software Developer, Android Dev, & More
+Versatile Technologist | 🤖Machine Learning, Large Language Model, 🖥️ Software Developer, & More
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 I bring a wealth of expertise in several key domains, including Machine Learning, Android Development, Software Engineering, and more. With a commitment to excellence and a passion for innovation, I've consistently delivered results in diverse tech landscapes. In the realm of Machine Learning, I've honed my skills in data analysis, classification, clustering, and predictive modeling. My data-driven approach has led to the development of solutions that address real-world challenges. My software engineering journey has equipped me with a solid foundation in C++, Java, and Python. I've developed modular and adaptable software solutions, characterized by clean code and performance optimization. My toolbox also includes a deep understanding of data structures, algorithms, and database management, which I've successfully applied to tackle complex computational challenges. With a strong grasp of computer and communication networks, I navigate network architecture, protocols, and technologies with ease, enabling seamless connectivity. My commitment to continuous learning is reflected in my certifications from esteemed institutions like Stanford University and Microsoft. I'm always eager to explore new technologies and embrace fresh challenges.
